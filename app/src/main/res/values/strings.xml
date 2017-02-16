@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Map Api</string>
+    <string name="enter_address">Enter Address</string>
+    <string name="get_result">Get REsult</string>
+    <string name="long_name">Long Name :</string>
+    <string name="noMapsInstalled">Maps is not installed in your device</string>
+</resources>
